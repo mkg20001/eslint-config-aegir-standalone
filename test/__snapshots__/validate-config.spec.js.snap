@@ -4,6 +4,7 @@ exports[`eslint-config-aegir basic export 1`] = `
 Object {
   "extends": "standard",
   "globals": Object {
+    "mocha": true,
     "self": true,
   },
   "parserOptions": Object {
